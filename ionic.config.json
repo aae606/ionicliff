@@ -1,0 +1,7 @@
+{
+  "name": "ionicliff",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
